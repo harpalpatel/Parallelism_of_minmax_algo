@@ -1,0 +1,1 @@
+# Parallelism_of_minmax_algo
